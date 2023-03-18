@@ -1,1 +1,5 @@
-theme: minima
+title: eSingR FAQ
+logo: /assets/img/eSignR_Logo_no_slogan_farbig.png
+description: Häufig gestellte Fragen zu eSignR
+show_downloads: true
+theme: jekyll-theme-minimal
